@@ -26,7 +26,7 @@ Install all the packages
 
 ```bash
 cd FaRMA
-pip install torch==2.6.0
+pip install torch==2.6
 pip install -r requirements.txt
 ```
 
